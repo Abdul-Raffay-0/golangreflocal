@@ -2,7 +2,7 @@ package golangRefLocal
 
 
 
-func First(){
+func First()string{
 	return "Fuckoff!"
 }
 
