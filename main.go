@@ -6,6 +6,6 @@ func First()string{
 	return "Fuckoff!"
 }
 
-func Second(){
+func Second()string{
 	return "Another Fuckoff"
 }
