@@ -1,11 +1,11 @@
-package main
+package golangRefLocal
 
 
 
-func Main(){
+func First(){
 	return "Fuckoff!"
 }
 
-func Main2(){
+func Second(){
 	return "Another Fuckoff"
 }
