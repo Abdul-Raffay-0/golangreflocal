@@ -2,10 +2,10 @@ package main
 
 
 
-func main(){
+func Main(){
 	return "Fuckoff!"
 }
 
-func main2(){
+func Main2(){
 	return "Another Fuckoff"
 }
